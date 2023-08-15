@@ -1,19 +1,21 @@
 # About Me
 
-- 🔭 I’m currently working on: coursework & practice experience for my masters in public health including Concepts in Environmental Health, and my practice experience project on HAV/HBV vaccination & screening; I do medication therapy management (MTM) as my day job
-- 🌱 I’m currently learning: HBV epidemiology & clinical care, R, epidemiology, biostatistics, python, SAS
+- 🔭 I’m currently working on: coursework & practice experience for my masters in public health; I work as a clinical pharmacist as my day job
+- 🌱 I’m currently learning: R, epidemiology, biostatistics, python
 - 👯 I’m looking to collaborate on: projects related to the epidemiology of chronic disease
 - 📫 How to reach me: hoctor@pdx.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact:s I enjoy [editing wikipedia](https://en.wikipedia.org/wiki/User:Matthew_Hoctor), and my CV is written in R Markdown, and can be found in [this repository](https://github.com/matthew-hoctor/CV)
+- ⚡ Fun fact:s I enjoy [editing wikipedia](https://en.wikipedia.org/wiki/User:Matthew_Hoctor), and my CV is written in R markdown, and can be found in [this repository](https://github.com/matthew-hoctor/CV)
 
-# Current Projects
+# Current Projects & Courses
 
- - MPH practice experience: [HAV/HBV Screening & Vaccination Practices in PWSUD](https://github.com/matthew-hoctor/HAV-HBV)
+ - [Statistical Methods in Clinical Trials](https://github.com/matthew-hoctor/BSTA517_Clinical_Trials)
+ - Health Systems Forecasting course
  - [Statistical Rethinking 2023](https://github.com/rmcelreath/stat_rethinking_2023) 2023 course
  - [Updating the R Healthy Eating Index script](https://github.com/matthew-hoctor/hei2)
+ - UW's [National STD Curriculum](https://www.std.uw.edu/)
 
-# Past Projects
+# Past Projects & Courses
 
  - [Environmental Health](https://github.com/matthew-hoctor/ESHH511): 
    - [Reducing the Warming Effect of Asthma Care in the U.S.](https://docs.google.com/document/d/17ZraAnLnqFSJeaeSBb-zuxwyYlx30SAXlyRvj_9o0Mg/edit)
@@ -21,10 +23,10 @@
  - [Statistical Learning & Data Science](https://github.com/matthew-hoctor/BSTA522)
  - Qualitative Methods: [Yoga Practice Among Veterans:  A Qualitative Study of Provider Perspectives](https://github.com/matthew-hoctor/qualitative)
  - Health Systems Organization: [A Cybernetic Analysis of the Indian Health Service](https://docs.google.com/document/d/1w09FFrJdCCxiJ49XKAAZ0l4M6cumREgk6LKYoB2KrIQ/)
- - Applied Longitudinal Data Analysis: [Budesonide vs nedocromil using CAMP data](https://github.com/matthew-hoctor/Respiratory-Infection-Project)
+ -  [Budesonide vs nedocromil using CAMP data](https://github.com/matthew-hoctor/Respiratory-Infection-Project), a course project for [Applied Longitudinal Data Analysis](https://github.com/matthew-hoctor/BSTA519)
  - Epidemiology of HIV/AIDS: [Smoking Harm Reduction in PLWH](https://github.com/matthew-hoctor/Smoking-Harm-Reduction)
  - Chronic Disease Epidemiology: [Resistant HTN - Directions for Further Research](https://docs.google.com/document/d/1bjYx40d9Mizrq9GW-66nM0O1EufY8ojladDPcjmhPV0/edit?usp=sharing)
- - [Effect of cannabis use on BP, an Analysis of NHANES Data](https://github.com/matthew-hoctor/Marijuana-HTN---EPI536)
+ - [Effect of cannabis use on BP, an Analysis of NHANES Data](https://github.com/matthew-hoctor/Marijuana-HTN---EPI536), a course project for [Epi Data](https://github.com/matthew-hoctor/EPI536-Assignments)
  - [Mediation analysis of the effect of maternal smoking on birth weight](https://github.com/matthew-hoctor/BSTA512-Project)
  - [Risk factors for multiple falls in men in the MrOS study](https://github.com/matthew-hoctor/BSTA513-Group6-project)
  - Causal Inference: [Destructive Scheduling Practices & Sleep](https://github.com/matthew-hoctor/EPI514SLEEP)
