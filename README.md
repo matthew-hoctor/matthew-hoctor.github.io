@@ -9,14 +9,15 @@
 
 # Current Projects & Courses
 
- - [Statistical Methods in Clinical Trials](https://github.com/matthew-hoctor/BSTA517_Clinical_Trials)
- - Health Systems Forecasting course
  - [Statistical Rethinking 2023](https://github.com/rmcelreath/stat_rethinking_2023) 2023 course
  - [Updating the R Healthy Eating Index script](https://github.com/matthew-hoctor/hei2)
  - UW's [National STD Curriculum](https://www.std.uw.edu/)
+ - MPH Practice Experience
 
 # Past Projects & Courses
 
+ - [Mock LOI for a P3 pragmatic RCT of thiazide-like diuretics](https://github.com/matthew-hoctor/BSTA517-LOI) for [Statistical Methods in Clinical Trials](https://github.com/matthew-hoctor/BSTA517_Clinical_Trials)
+ - [Four Futures of Primary Care](https://docs.google.com/document/d/1EYuNyQyfUwqv1o0syzgYTFrYObdfXl8IQQOEq1fEisw/edit) for Health Systems Forecasting course
  - [Environmental Health](https://github.com/matthew-hoctor/ESHH511): 
    - [Reducing the Warming Effect of Asthma Care in the U.S.](https://docs.google.com/document/d/17ZraAnLnqFSJeaeSBb-zuxwyYlx30SAXlyRvj_9o0Mg/edit)
    - [Weekly blog on environmental health topics](https://sakai.ohsu.edu/portal/site/ESHH-511-OL-32492-Sp22/tool/83786476-2285-4e39-bd25-c7c610e65854/blog_view?blogid=8af1c3607fb63988017fd30342df0003)
